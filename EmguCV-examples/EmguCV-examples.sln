@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmguCV-examples", "EmguCV-examples\EmguCV-examples.csproj", "{3912DBFA-22FF-41E6-9A9D-67F12CBC57DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{84B81DC3-587A-40DF-A65C-0837C252A2EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3912DBFA-22FF-41E6-9A9D-67F12CBC57DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3912DBFA-22FF-41E6-9A9D-67F12CBC57DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3912DBFA-22FF-41E6-9A9D-67F12CBC57DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B81DC3-587A-40DF-A65C-0837C252A2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B81DC3-587A-40DF-A65C-0837C252A2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B81DC3-587A-40DF-A65C-0837C252A2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B81DC3-587A-40DF-A65C-0837C252A2EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
